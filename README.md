@@ -265,55 +265,6 @@ Worked on designing responsive and user-friendly web interfaces while collaborat
 
 ---
 
-
-# 📌 Quick Profile
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center">
-
-### 🎓 Education
-
-**B.Tech AI & Data Science**
-
-</td>
-
-<td align="center">
-
-### 💻 Primary Languages
-
-**Java • Python • SQL**
-
-</td>
-
-<td align="center">
-
-### 🤖 Main Interest
-
-**AI & ML**
-
-</td>
-
-<td align="center">
-
-### 📊 Focus
-
-**Data & Software**
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
 # 💡 Development Philosophy
 
 <div align="center">
