@@ -12,8 +12,8 @@
   <a href="https://www.linkedin.com/in/deepakkumar-m/">
     <img src="https://img.shields.io/badge/LinkedIn-Deepakkumar%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:manideepaklatha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-manideepaklatha%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://www.instagram.com/__.deepak_m._/">
+    <img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
